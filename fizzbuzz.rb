@@ -9,4 +9,3 @@ def fizzbuzz(int)
     puts "nil"
   ends
 ends
-
