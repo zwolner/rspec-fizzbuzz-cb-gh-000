@@ -5,7 +5,7 @@ def fizzbuzz(int)
     elseif int % 5 == 0
       puts "Buzz"
     end
-    else false
+    else true
       puts "nil"
     end
 end
